@@ -1,0 +1,79 @@
+E:\RMT\EarthQuakeLib\bin\Debug\EarthQuakeLib.dll
+E:\RMT\EarthQuakeLib\bin\Debug\EarthQuakeLib.pdb
+E:\RMT\EarthQuakeLib\bin\Debug\MySql.Data.dll
+E:\RMT\EarthQuakeLib\bin\Debug\MySql.Data.Entity.dll
+E:\RMT\EarthQuakeLib\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\RMT\EarthQuakeLib\bin\Debug\ZedGraph.dll
+E:\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.pdb
+E:\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.xml
+E:\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.GL.xml
+E:\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.World.pdb
+E:\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.World.xml
+E:\RMT\EarthQuakeLib\bin\Debug\ZedGraph.xml
+E:\RMT\EarthQuakeLib\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\RMT\EarthQuakeLib\bin\Debug\zh-Hant\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+E:\RMT\EarthQuakeLib\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\RMT\EarthQuakeLib\obj\Debug\EarthQuakeLib.csprojResolveAssemblyReference.cache
+E:\RMT\EarthQuakeLib\obj\Debug\EarthQuakeLib.dll
+E:\RMT\EarthQuakeLib\obj\Debug\EarthQuakeLib.pdb
+D:\RMT\EarthQuakeLib\bin\Debug\EarthQuakeLib.dll
+D:\RMT\EarthQuakeLib\bin\Debug\EarthQuakeLib.pdb
+D:\RMT\EarthQuakeLib\bin\Debug\MySql.Data.dll
+D:\RMT\EarthQuakeLib\bin\Debug\MySql.Data.Entity.dll
+D:\RMT\EarthQuakeLib\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\RMT\EarthQuakeLib\bin\Debug\ZedGraph.dll
+D:\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.pdb
+D:\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.xml
+D:\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.GL.xml
+D:\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.World.pdb
+D:\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.World.xml
+D:\RMT\EarthQuakeLib\bin\Debug\ZedGraph.xml
+D:\RMT\EarthQuakeLib\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\RMT\EarthQuakeLib\bin\Debug\zh-Hant\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+D:\RMT\EarthQuakeLib\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\RMT\EarthQuakeLib\obj\Debug\EarthQuakeLib.csprojResolveAssemblyReference.cache
+D:\RMT\EarthQuakeLib\obj\Debug\EarthQuakeLib.dll
+D:\RMT\EarthQuakeLib\obj\Debug\EarthQuakeLib.pdb
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\EarthQuakeLib.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\EarthQuakeLib.pdb
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.GL.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.World.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\MySql.Data.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\MySql.Data.Entity.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\ZedGraph.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.pdb
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.xml
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.GL.xml
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.World.pdb
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.World.xml
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\ZedGraph.xml
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\zh-Hant\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\obj\Debug\EarthQuakeLib.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\obj\Debug\EarthQuakeLib.pdb
+D:\My Documents\Visual Studio 2015\Projects\RMT\EarthQuakeLib\obj\Debug\EarthQuakeLib.csprojResolveAssemblyReference.cache
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\EarthQuakeLib.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\EarthQuakeLib.pdb
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.GL.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.World.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\MySql.Data.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\MySql.Data.Entity.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\ZedGraph.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.pdb
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.xml
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.UI.GL.xml
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.World.pdb
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\Emgu.CV.World.xml
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\ZedGraph.xml
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\zh-Hant\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\obj\Debug\EarthQuakeLib.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\EarthQuakeLib\obj\Debug\EarthQuakeLib.pdb

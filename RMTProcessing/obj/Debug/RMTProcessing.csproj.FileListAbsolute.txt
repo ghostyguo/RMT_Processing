@@ -1,0 +1,110 @@
+E:\RMT\RMTProcessing\obj\Debug\RMTProcessing.exe
+E:\RMT\RMTProcessing\obj\Debug\RMTProcessing.pdb
+E:\RMT\RMTProcessing\bin\Debug\RMTProcessing.exe
+E:\RMT\RMTProcessing\bin\Debug\RMTProcessing.pdb
+E:\RMT\RMTProcessing\bin\Debug\EarthQuakeLib.dll
+E:\RMT\RMTProcessing\bin\Debug\MySql.Data.dll
+E:\RMT\RMTProcessing\bin\Debug\MySql.Data.Entity.dll
+E:\RMT\RMTProcessing\bin\Debug\OpenHardwareMonitorLib.dll
+E:\RMT\RMTProcessing\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.dll
+E:\RMT\RMTProcessing\bin\Debug\ZedGraph.dll
+E:\RMT\RMTProcessing\bin\Debug\EarthQuakeLib.pdb
+E:\RMT\RMTProcessing\bin\Debug\OpenHardwareMonitorLib.pdb
+E:\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.GL.xml
+E:\RMT\RMTProcessing\bin\Debug\Emgu.CV.World.pdb
+E:\RMT\RMTProcessing\bin\Debug\Emgu.CV.World.xml
+E:\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.pdb
+E:\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.xml
+E:\RMT\RMTProcessing\bin\Debug\ZedGraph.xml
+E:\RMT\RMTProcessing\bin\Debug\zh-Hant\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+E:\RMT\RMTProcessing\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\RMT\RMTProcessing\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\RMT\RMTProcessing\obj\Debug\RMTProcessing.csprojResolveAssemblyReference.cache
+E:\RMT\RMTProcessing\obj\Debug\RMTProcessing.RevertDataForm.resources
+E:\RMT\RMTProcessing\obj\Debug\RMTProcessing.RMTProcessingMainForm.resources
+E:\RMT\RMTProcessing\obj\Debug\RMTProcessing.Properties.Resources.resources
+E:\RMT\RMTProcessing\obj\Debug\RMTProcessing.csproj.GenerateResource.Cache
+D:\RMT\RMTProcessing\obj\Debug\RMTProcessing.exe
+D:\RMT\RMTProcessing\obj\Debug\RMTProcessing.pdb
+D:\RMT\RMTProcessing\obj\Debug\RMTProcessing.csprojResolveAssemblyReference.cache
+D:\RMT\RMTProcessing\obj\Debug\RMTProcessing.RevertDataForm.resources
+D:\RMT\RMTProcessing\obj\Debug\RMTProcessing.RMTProcessingMainForm.resources
+D:\RMT\RMTProcessing\obj\Debug\RMTProcessing.Properties.Resources.resources
+D:\RMT\RMTProcessing\obj\Debug\RMTProcessing.csproj.GenerateResource.Cache
+D:\RMT\RMTProcessing\bin\Debug\RMTProcessing.exe
+D:\RMT\RMTProcessing\bin\Debug\RMTProcessing.pdb
+D:\RMT\RMTProcessing\bin\Debug\EarthQuakeLib.dll
+D:\RMT\RMTProcessing\bin\Debug\MySql.Data.dll
+D:\RMT\RMTProcessing\bin\Debug\MySql.Data.Entity.dll
+D:\RMT\RMTProcessing\bin\Debug\OpenHardwareMonitorLib.dll
+D:\RMT\RMTProcessing\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.dll
+D:\RMT\RMTProcessing\bin\Debug\ZedGraph.dll
+D:\RMT\RMTProcessing\bin\Debug\EarthQuakeLib.pdb
+D:\RMT\RMTProcessing\bin\Debug\OpenHardwareMonitorLib.pdb
+D:\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.GL.xml
+D:\RMT\RMTProcessing\bin\Debug\Emgu.CV.World.pdb
+D:\RMT\RMTProcessing\bin\Debug\Emgu.CV.World.xml
+D:\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.pdb
+D:\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.xml
+D:\RMT\RMTProcessing\bin\Debug\ZedGraph.xml
+D:\RMT\RMTProcessing\bin\Debug\zh-Hant\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+D:\RMT\RMTProcessing\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\RMT\RMTProcessing\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\RMTProcessing.exe
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\RMTProcessing.pdb
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\EarthQuakeLib.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.GL.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\Emgu.CV.World.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\MySql.Data.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\MySql.Data.Entity.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\ZedGraph.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\EarthQuakeLib.pdb
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.GL.xml
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\Emgu.CV.World.pdb
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\Emgu.CV.World.xml
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.pdb
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.xml
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\ZedGraph.xml
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\zh-Hant\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\obj\Debug\RMTProcessing.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\obj\Debug\RMTProcessing.DataSetupForm.resources
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\obj\Debug\RMTProcessing.RMTProcessingMainForm.resources
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\obj\Debug\RMTProcessing.Properties.Resources.resources
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\obj\Debug\RMTProcessing.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\obj\Debug\RMTProcessing.exe
+D:\My Documents\Visual Studio 2015\Projects\RMT\RMTProcessing\obj\Debug\RMTProcessing.pdb
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\RMTProcessing.exe
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\RMTProcessing.pdb
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\EarthQuakeLib.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.GL.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\Emgu.CV.World.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\MySql.Data.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\MySql.Data.Entity.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\ZedGraph.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\EarthQuakeLib.pdb
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.GL.xml
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\Emgu.CV.World.pdb
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\Emgu.CV.World.xml
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.pdb
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\Emgu.CV.UI.xml
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\ZedGraph.xml
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\zh-Hant\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\obj\Debug\RMTProcessing.csprojResolveAssemblyReference.cache
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\obj\Debug\RMTProcessing.DataSetupForm.resources
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\obj\Debug\RMTProcessing.RMTProcessingMainForm.resources
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\obj\Debug\RMTProcessing.Properties.Resources.resources
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\obj\Debug\RMTProcessing.csproj.GenerateResource.Cache
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\obj\Debug\RMTProcessing.exe
+D:\GitHub\EarthquakeResearch\C#\RMT\RMTProcessing\obj\Debug\RMTProcessing.pdb
